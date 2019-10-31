@@ -1,4 +1,4 @@
-# Welcome to Bielsko-Biała Data Workshop project page!
+# Welcome to Bielsko-Biała DataWorkshop project page!
 
 ## Meetings
 
