@@ -2,7 +2,7 @@
 
 ## Meetings
 
-- TBD
+- [2019-11-18](https://github.com/dataworkshop/dw-bielsko-biala-project/blob/master/meetings/2019-11-18.md)
 
 ## Slack:
 - [Bielsko Biała](https://app.slack.com/client/TCCTN4HU3/CPC20CS2Y) 
